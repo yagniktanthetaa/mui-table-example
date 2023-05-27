@@ -4,6 +4,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+In the project directory, you can install the following command:
+
+### `npm i --legacy-peer-deps`
+
 In the project directory, you can run:
 
 ### `npm start`
